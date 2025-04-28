@@ -1,0 +1,18 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Student Exam Score Predictor",
+  "description": "Predicts exam scores based on hours studied using linear regression.",
+  "author": {
+    "@type": "Person",
+    "givenName": "Mian Azan",
+    "familyName": "Farooq",
+    "affiliation": "TU Wien",
+    "email": "e12433773@student.tuwien.ac.at"
+  },
+  "identifier": "https://github.com/yourgithub/student-exam-predictor",
+  "license": "https://opensource.org/licenses/MIT",
+  "codeRepository": "https://github.com/yourgithub/student-exam-predictor",
+  "programmingLanguage": "Python",
+  "dateCreated": "2025-04-28"
+}
